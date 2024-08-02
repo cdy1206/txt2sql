@@ -1,0 +1,32 @@
+What are the top 8 customers by sales?
+账单数量最多的三个国家
+    Write a query that returns the 3 countries with the highest number of invoices, along with the number of invoices for these countries.
+    编写一个查询语句，返回发票数量最多的三个国家，以及这些国家的发票数量。
+最佳客户电子邮件
+    Build a query that returns the person who has the highest sum of all invoices,along with their email, first name, and last name.
+    构建一个查询语句，返回拥有所有发票总和最高的个人，以及他们的电子邮件、名字和姓氏。
+
+    Use your query to return the email, first name, last name, and Genre of all Rock Music listeners!
+    Return you list ordered alphabetically by email address starting with A.
+    Can you find a way to deal with duplicate email addresses so no one receives multiple emails?
+
+    使用您的查询语句返回所有听摇滚音乐的人的电子邮件、名字、姓氏和音乐类型！
+    将您的列表按以A开头的电子邮件地址的字母顺序排列。
+    您能找到一种处理重复电子邮件地址的方法，以确保没有人收到多封邮件吗？
+音乐宣传活动
+    Write a query that returns the 1 city that has the highest sum of invoice totals.
+    Return both the city name and the sum of all invoice totals.
+
+    编写一个查询语句，返回发票总金额最高的一个城市。返回城市名称和所有发票总金额之和。
+城市热门音乐排行
+    Write a query that returns the BillingCity,total number of invoices.
+    Return the top 3 most popular music genres for the city Prague with the highest invoice total
+    编写一个查询语句，返回账单城市和发票的总数量。返回布拉格市按发票总额排序的前3种最受欢迎的音乐类型。
+寻找音乐家
+    Write a query that returns the Artist name and total track count of the top 10 rock bands.
+    编写一个查询语句，返回前10名摇滚乐队的艺术家名称和总曲目数量。
+直通法国
+    Return the BillingCities in France, followed by the total number of tracks purchased for Alternative & Punk music.
+    Order your output so that the city with the highest total number of tracks purchased is on top.
+
+    返回在法国购买替代和朋克音乐的总曲目数量的账单城市。将输出按购买曲目总数最多的城市排在最前面。
